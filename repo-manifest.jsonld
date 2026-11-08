@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modal-labs/modal-devin/commit/d6753c40eb71c026d8a3911b5fecd7de73b19eac",
       "git:hexsha": "d6753c40eb71c026d8a3911b5fecd7de73b19eac",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/modal-labs/modal-devin/commit/92478d257f8c22cedf458d1dc468a5fdf1560b25",
